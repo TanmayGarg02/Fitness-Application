@@ -29,7 +29,8 @@ A full-stack microservices-based fitness tracker that allows users to log their 
 - **PostgreSQL / MongoDb** (or your DB of choice)
 
 ### 💡 AI Service
-- Python/Flask or Java microservice for AI logic (e.g., rules-based or ML model)
+- Java microservice for AI logic (e.g., rules-based or ML model)
+- **Gemini 2.0 Flash **
 
 ### 🎨 Frontend
 - **React.js**
