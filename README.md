@@ -41,5 +41,3 @@ A full-stack microservices-based fitness tracker that allows users to log their 
 
 ---
 
-## 📦 Project Structure
-
