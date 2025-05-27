@@ -41,7 +41,20 @@ A full-stack microservices-based fitness tracker that allows users to log their 
 - **react-oauth2-code-pkce**
 
 ---
+## 📁 Project Structure
 
+fitness-app/
+├── activityservice/        # Microservice to manage user activities (CRUD)
+├── aiservice/              # Microservice to generate AI-based fitness recommendations
+├── configserver/           # Centralized Spring Cloud Config Server
+├── eureka/                 # Eureka Service Registry for service discovery
+├── fitness-app-frontend/   # Frontend built with React and MUI
+├── gateway/                # API Gateway for routing and security
+├── userservice/            # Microservice to manage user registration and profiles
+├── package-lock.json       # Node package lock file for frontend dependencies
+└── README.md               # Project documentation
+
+---
 ## 🚀 To Run Locally
 
 1. Start Keycloak and Eureka
