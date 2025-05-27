@@ -42,3 +42,13 @@ A full-stack microservices-based fitness tracker that allows users to log their 
 
 ---
 
+## 🚀 To Run Locally
+
+1. Start Keycloak and Eureka
+2. Run each Spring Boot microservice
+3. Start the React frontend:
+```bash
+cd frontend
+npm install
+npm start
+
