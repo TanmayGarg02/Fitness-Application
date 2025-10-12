@@ -1,4 +1,4 @@
-# 🏃‍♂️ Fitness-Application
+# 🏃‍♂️ FinTrack
 
 A full-stack microservices-based fitness tracker that allows users to log their physical activities and receive AI-generated personalized health and wellness recommendations.
 
